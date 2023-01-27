@@ -3,7 +3,7 @@
 
 <br/> 
   
-- 🔭 I'm a full-time web developer  👨‍💻  and developed web applications using ReactJs , Redux ,  HTML , CSS , JavaScript and JSX .    
+- 🔭 I'm a full-time web developer 👨‍💻 and developed web applications using ReactJs, Redux, HTML, CSS, JavaScript and JSX.    
   
 
 - 🌱 I’m currently learning NodeJs and BackEnd and interested in these related growing Technology .   
