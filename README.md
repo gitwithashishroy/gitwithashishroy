@@ -1,7 +1,8 @@
 
 ## **<div align="center">Ashish Kumar Roy , B.Tech @ NIT Silchar</div>**  
-  
 
+<br/> 
+  
 - 🔭 I'm a full-time web developer  👨‍💻  and developed web applications using ReactJs , Redux ,  HTML , CSS , JavaScript and JSX .    
   
 
