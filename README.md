@@ -20,18 +20,6 @@ I enjoy designing:
 - high-performance apps
 - end-to-end product features
 
-**My engineering journey — building and shipping production-ready products.**
-
----
-
-### 🚀 What I Work On
-
-- AI-assisted course discovery platforms
-- Workflow automation systems
-- Configurable form builders
-- Scalable monorepo architectures
-- Full-stack web products
-
 ---
 
 ### 🛠 Tech Stack
