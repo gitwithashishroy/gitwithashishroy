@@ -1,50 +1,81 @@
+## <div align="center">Ashish Kumar Roy</div>
+### <div align="center">Frontend SDE 2 • React • Next.js • TypeScript • System Design</div>
 
-## **<div align="center">Ashish Kumar Roy , B.Tech @ NIT Silchar</div>**  
+<div align="center">
+🌐 <a href="https://codearoy.com">Portfolio</a> • 
+💻 <a href="https://github.com/gitwithashishroy">GitHub</a> • 
+🔗 <a href="https://linkedin.com/in/ashish-kumar-roy">LinkedIn</a>
+</div>
 
-<br/> 
-  
-- 🔭 I'm a full-time web developer 👨‍💻 and developed web applications using ReactJs, Redux, HTML, CSS, JavaScript and JSX.    
-  
+---
 
-- 🌱 I’m currently learning NodeJs and BackEnd and interested in these related growing Technology .   
-  
+### 👋 About Me
 
-- ❓ Ask me about anything related to MERN stack and related technologies .  
-  
+Frontend-focused SDE2 with experience building **scalable, production-grade web applications** used by thousands of users.  
+I specialize in **React, Next.js, and TypeScript**, with strong ownership across **architecture, performance, and full-stack systems**.
 
-<br/>  
+I enjoy designing:
+- complex UI systems
+- reusable component architectures
+- high-performance apps
+- end-to-end product features
 
-## **<div align="center">MY SKILL SET</div>**  
-  
+**My engineering journey — building and shipping production-ready products.**
 
+---
 
+### 🚀 What I Work On
 
-### Frontend  
-<div align="center" >  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
-</div>  
+- AI-assisted course discovery platforms
+- Workflow automation systems
+- Configurable form builders
+- Scalable monorepo architectures
+- Full-stack web products
 
+---
 
-### BackEnd  
-<div align="center" >  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>  
+### 🛠 Tech Stack
 
-<br/>  
+#### Languages
+TypeScript • JavaScript (ES6+) • HTML5 • CSS3 / SCSS
 
-## Connect with me  
-**Github Link :  [https://github.com/gitwithashishroy](https://github.com/gitwithashishroy)**  
-  
-<!---
-gitwithashishroy/gitwithashishroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Frontend
+React • Next.js (App Router, SSR/SSG) • Performance Optimization • Responsive UI
+
+#### Architecture
+NX Monorepo • Component Systems • Caching (SWR, React Query) • State Management Patterns
+
+#### Backend
+Node.js • Express • REST APIs • GraphQL • WebSockets • MongoDB
+
+#### Tooling
+Git • Vite • Webpack • Turbopack • Babel • ESLint • Prettier
+
+---
+
+### 🌟 Production Work
+
+🔹 Uniply.ai – Course Search CoPilot Platform  
+Architected scalable React/Next.js UI for AI-assisted course discovery across 500+ courses and 130+ universities  
+🌐 https://www.copilot.uniply.ai
+
+🔹 AdmitKard – Marketing & Product Landing Pages  
+Built and optimized high-performance React/Next.js landing pages for AdmitKard’s course discovery platform, focusing on SEO, responsiveness, and conversion improvements  
+🌐 https://www.admitkard.com
+
+---
+
+### 🌟 Featured Work
+
+🔹 **codearoy.com**  
+Personal engineering platform showcasing real-world full-stack applications and scalable frontend architectures.
+
+🔹 **Dynamic Form Builder**  
+Config-driven forms with versioning & MongoDB schemas for non-engineering teams.
+
+---
+
+### 📫 Let's Connect
+Always open to discussing engineering, frontend architecture, and building impactful products.
+
+Portfolio → https://codearoy.com
